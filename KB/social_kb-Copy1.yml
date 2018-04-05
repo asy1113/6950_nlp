@@ -1,0 +1,551 @@
+Comments: ''
+Direction: ''
+Lex: ditch school
+Regex: ("|')?ditch("|')? school
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: kicked out of
+Regex: ("|')?kicked out("|')? of
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: kicked out by
+Regex: ("|')?kicked out.{1,20}?("|')? by
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: aviod family 
+Regex: (aviod\w?|avoiding) family 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: be isolating
+Regex: (be|been) isolating
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: be removed from
+Regex: (be|been) removed from
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: be isolating
+Regex: (be|been|am|is|was) isolating
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: be withdrawing
+Regex: (be|been|am|is|was) withdrawing
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: be homeless
+Regex: (be|been|am|was|is|'s) homeless
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: be kicked out of
+Regex: (be|been|am|was|is|'s) kicked out of
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: prevented from being with
+Regex: (be|been|am|was|is|'s) prevented from being with (my|her|his)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 
+Regex: 
+Type: ISOLATION

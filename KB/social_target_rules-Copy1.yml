@@ -1,0 +1,486 @@
+Comments: ''
+Direction: ''
+Lex: afraid people will judge him 
+Regex: afraid (people|.{1,20})? will judge (me|her|him)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: asked to leave group 
+Regex: asked to leave (group)?
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: avoid family 
+Regex: (avoid\w?|avoided|avoiding) family 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: avoidance as a coping skill
+Regex: avoidance as a coping skill
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: be abandoned
+Regex: (be|been|am|was|is|'s).{1,20} abandoned
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: be homeless
+Regex: (be|been|am|was|is|'s) homeless
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: be isolating
+Regex: (be|been|am|is|was) isolating
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: be kicked out of
+Regex: (be|been|am|was|is|'s) kicked out of
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: be prevented from being with his 
+Regex: (be|been|am|was|is|'s) prevented from being with (my|her|his)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: be removed from
+Regex: (be|been|am|was|is|'s) removed from
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: be withdrawing
+Regex: (be|been|am|is|was) withdrawing
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: broke up with his friend 
+Regex: broke up with (my|her|his) (boyfriend|girlfriend)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: cannot interact with woman
+Regex: (can not|cannot|can't) interact with (woman|women|man|men)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: choice to homelessness
+Regex: (choice|choose).{1,20} to.{1,20}?homelessness
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: difficult time making friends
+Regex: difficult time making friends? 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: difficulty making any friend
+Regex: difficulty.{1,30}? making (new|any)? friends?
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: difficulty making friends
+Regex: difficulty making friends? 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: ditch school
+Regex: ("|')?ditch("|')? school
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: don't have any relationship to anyone 
+Regex: (not|didn't|doesn't|don't) have any relationship to (any one|anyone)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: don't let him see his friend
+Regex: (not|didn't|doesn't|don't) let (her|him|me) see (her|his|my) friends
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: elope
+Regex: elope\w?
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: elopement
+Regex: elopement
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: family not supporting
+Regex: family not supporting
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: feel alone
+Regex: (feel\w?|felt|feeling) alone
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: feel anxious and alone
+Regex: (feel\w?|felt|feeling) (anxious and)? alone
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: feel be rejected by
+Regex: (feel|feels|felt|be|been|am|is|was|'s) rejected by
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: feel lonely
+Regex: (feel\w?|felt|feeling) lonely
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: feel no one cared
+Regex: (feel\w?|felt|feeling) no one cared
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: feel really isolated
+Regex: (feel\w?|feeling|felt) (really|very)? isolated
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: feel really lonely 
+Regex: (feel\w?|felt|feeling) (really|very)? lonely 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: feeling of emptiness
+Regex: feeling\w? of emptiness
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: getting a girl he like 
+Regex: getting a (girl|boy) (I|she|he) (like\w?)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: hard time with friend
+Regex: hard time with friend\w?
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: I she isolate herself 
+Regex: (I|she|he)? (isolate\w?) (myself|herself|himself)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: isolate
+Regex: isolate\w?
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: isolate himself 
+Regex: isolate\w? (myself|herself|himself)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: isolation
+Regex: isolation
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: isolation room
+Regex: isolation room
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: isolative
+Regex: isolative
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: kicked out by
+Regex: ("|')?kicked out.{1,20}?("|')? by
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: kicked out of
+Regex: ("|')?kicked out("|')? of
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: lack of family support
+Regex: lack of family support
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: lack of support system
+Regex: lack of (viable)? support system
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: lacks of family support
+Regex: lacks of family support
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: leave him alone
+Regex: leave (me|her|him) alone
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: limited social support
+Regex: limited social support
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: live alone
+Regex: live\w? alone
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: live alone in
+Regex: (living|live|lives|lived) alone in
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: lonely 
+Regex: lonely feeling\w?
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: loss her friend
+Regex: (lost|loss) (her|his) friends?
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: minimal support
+Regex: minimal support
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: minimally social with peers 
+Regex: minimally social with (peers)?
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: no one care about him 
+Regex: no one (care\w?) about (me|her|him)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: no one like him 
+Regex: no one (like\w?) (me|her|him)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: not able to attend school
+Regex: not able to attend school
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: not accepted by anyone
+Regex: not accepted by anyone
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: not be allowed to receive call 
+Regex: not be allowed to receive (calls|call)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: not have a place in this world
+Regex: not (have|has|had) a place in (this|the) world
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: 'participation: none'
+Regex: participation:\s{1,5}none
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: peer isolation
+Regex: peer.{1,20}? isolation
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: problem with primary support system
+Regex: problem\w? with (primary)?support system
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: pulled from the school 
+Regex: pulled.{1,20}? from the school 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: refuse to get out of bed
+Regex: (refuse\w?) to get out of bed
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: refuse to go to school
+Regex: (refuse\w?|refusing) to go to (school|work)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: run away
+Regex: (run\w?|ran|running) away
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: run off
+Regex: (run\w?|ran|running) off
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: skip school
+Regex: (skip|skips|skipped|skipping) school
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: social isolation
+Regex: social isolation
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: social phobia
+Regex: social phobia
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: spend a lot of time in her room
+Regex: (spend|spent) a lot of time in (my|her|his) room
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: struggle in that relationship
+Regex: (struggle\w?|struggling) in (that|this|the)? relationship
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: struggle making new friends
+Regex: (struggle\w?|struggling) making new friends? 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: struggle with interpersonal conflict
+Regex: (struggle\w?|struggling) with interpersonal conflict
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: struggle with social isolation
+Regex: (struggle\w?|struggling) with social isolation
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: timeout room
+Regex: timeout room
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: truancy
+Regex: truancy
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: wish he had died
+Regex: (wish|wishes|wished) (I|she|he) had died
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: wish he was loved
+Regex: (wish|wish\w+2?) (I|she|he) was loved
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: wish she could care about him 
+Regex: (wish|wish\w+2?).{1,30}(could|can) care about (me|her|him)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: wish she wasn't here
+Regex: (wish|wishes|wished) (I|she|he) (wasn't|was not) here
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: without anyone to talk to
+Regex: without (any one|anyone)? to talk to
+Type: ISOLATION
+---

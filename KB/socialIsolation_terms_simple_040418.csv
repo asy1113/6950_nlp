@@ -1,0 +1,81 @@
+"afraid (people|.{1,20})? will judge (me|her|him)",afraid people will judge him 
+asked to leave (group)?,asked to leave group 
+(avoid\w?|avoided|avoiding) family ,avoid family 
+avoidance as a coping skill,avoidance as a coping skill
+"(be|been|am|was|is|'s).{1,20} abandoned",be abandoned
+(be|been|am|was|is|'s) homeless,be homeless
+(be|been|am|is|was) isolating,be isolating
+(be|been|am|was|is|'s) kicked out of,be kicked out of
+(be|been|am|was|is|'s) prevented from being with (my|her|his),be prevented from being with his 
+(be|been|am|was|is|'s) removed from,be removed from
+(be|been|am|is|was) withdrawing,be withdrawing
+broke up with (my|her|his) (boyfriend|girlfriend),broke up with his friend 
+(can not|cannot|can't) interact with (woman|women|man|men),cannot interact with woman
+"(choice|choose).{1,20} to.{1,20}?homelessness",choice to homelessness
+difficult time making friends? ,difficult time making friends
+"difficulty.{1,30}? making (new|any)? friends?",difficulty making any friend
+difficulty making friends? ,difficulty making friends
+"(""|')?ditch(""|')? school",ditch school
+(not|didn't|doesn't|don't) have any relationship to (any one|anyone),don't have any relationship to anyone 
+(not|didn't|doesn't|don't) let (her|him|me) see (her|his|my) friends,don't let him see his friend
+elope\w?,elope
+elopement,elopement
+family not supporting,family not supporting
+(feel\w?|felt|feeling) alone,feel alone
+(feel\w?|felt|feeling) (anxious and)? alone,feel anxious and alone
+(feel|feels|felt|be|been|am|is|was|'s) rejected by,feel be rejected by
+(feel\w?|felt|feeling) lonely,feel lonely
+(feel\w?|felt|feeling) no one cared,feel no one cared
+(feel\w?|feeling|felt) (really|very)? isolated,feel really isolated
+(feel\w?|felt|feeling) (really|very)? lonely ,feel really lonely 
+feeling\w? of emptiness,feeling of emptiness
+getting a (girl|boy) (I|she|he) (like\w?),getting a girl he like 
+hard time with friend\w?,hard time with friend
+(I|she|he)? (isolate\w?) (myself|herself|himself),I she isolate herself 
+isolate\w?,isolate
+isolate\w? (myself|herself|himself),isolate himself 
+isolation,isolation
+isolation room,isolation room
+isolative,isolative
+"(""|')?kicked out.{1,20}?(""|')? by",kicked out by
+"(""|')?kicked out(""|')? of",kicked out of
+lack of family support,lack of family support
+lack of (viable)? support system,lack of support system
+lacks of family support,lacks of family support
+leave (me|her|him) alone,leave him alone
+limited social support,limited social support
+live\w? alone,live alone
+(living|live|lives|lived) alone in,live alone in
+lonely feeling\w?,lonely 
+(lost|loss) (her|his) friends?,loss her friend
+minimal support,minimal support
+minimally social with (peers)?,minimally social with peers 
+no one (care\w?) about (me|her|him),no one care about him 
+no one (like\w?) (me|her|him),no one like him 
+not able to attend school,not able to attend school
+not accepted by anyone,not accepted by anyone
+not be allowed to receive (calls|call),not be allowed to receive call 
+not (have|has|had) a place in (this|the) world,not have a place in this world
+"participation:\s{1,5}none",participation: none
+"peer.{1,20}? isolation",peer isolation
+problem\w? with (primary)?support system,problem with primary support system
+"pulled.{1,20}? from the school ",pulled from the school 
+(refuse\w?) to get out of bed,refuse to get out of bed
+(refuse\w?|refusing) to go to (school|work),refuse to go to school
+(run\w?|ran|running) away,run away
+(run\w?|ran|running) off,run off
+(skip|skips|skipped|skipping) school,skip school
+social isolation,social isolation
+social phobia,social phobia
+(spend|spent) a lot of time in (my|her|his) room,spend a lot of time in her room
+(struggle\w?|struggling) in (that|this|the)? relationship,struggle in that relationship
+(struggle\w?|struggling) making new friends? ,struggle making new friends
+(struggle\w?|struggling) with interpersonal conflict,struggle with interpersonal conflict
+(struggle\w?|struggling) with social isolation,struggle with social isolation
+timeout room,timeout room
+truancy,truancy
+(wish|wishes|wished) (I|she|he) had died,wish he had died
+(wish|wish\w+2?) (I|she|he) was loved,wish he was loved
+"(wish|wish\w+2?).{1,30}(could|can) care about (me|her|him)",wish she could care about him 
+(wish|wishes|wished) (I|she|he) (wasn't|was not) here,wish she wasn't here
+without (any one|anyone)? to talk to,without anyone to talk to

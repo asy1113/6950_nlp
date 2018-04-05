@@ -1,0 +1,13 @@
+ConclusionType,SourceType,ModifierValues
+#if an annotation is 'BREAST_CA', only has a modifier 'FAMILY', change this annotation type to FAM_BREAST_CA
+###---FAM_BREAST_CA,BREAST_CA,FAMILY
+#if an annotation is 'BREAST_CA', only has the modifier 'FAMILY' and 'DEFINITE_EXISTENCE', change this annotation type to FAM_BREAST_CA
+###---FAM_BREAST_CA,BREAST_CA,FAMILY,DEFINITE_EXISTENCE
+#if an annotation is 'BREAST_CA', only has the modifier 'FAMILY' and 'PSEUDONEG', change this annotation type to FAM_BREAST_CA
+###---FAM_BREAST_CA,BREAST_CA,FAMILY,PSEUDONEG
+###---FAM_BREAST_CA,BREAST_CA,FAMILY,HISTORICAL
+#Conclusion type, Evidence type, Modifier values associated with the evidence
+NEGATED_CONCEPT,ISOLATION,DEFINITE_NEGATED_EXISTENCE
+
+
+
