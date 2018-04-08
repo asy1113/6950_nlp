@@ -2296,8 +2296,13 @@ Comments: ''
 Direction: forward
 Lex: h/o
 Regex: ''
-Type: FAMILY
-
+Type: HISTORICAL
+---
+Comments: ''
+Direction: forward
+Lex: history of
+Regex: ''
+Type: HISTORICAL
 ---
 Comments: ''
 Direction: backward
@@ -2320,5 +2325,17 @@ Type: DEFINITE_NEGATED_EXISTENCE
 Comments: ''
 Direction: bidirectional
 Lex: r/o
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: bidirectional
+Lex: rule out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: bidirectional
+Lex: ruled out
 Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
