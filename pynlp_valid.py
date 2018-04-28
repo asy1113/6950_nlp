@@ -45,6 +45,15 @@ class Validnote:
             else: # results[v]!=standard[v] and results[v]==nlabel:
                 fn=fn+1
                 print("fn: " + v)
+     
+        print ('-'*30)
+        print ('\tReference', '\t', 'Total')
+        print ('-'*30)
+        print ('System', '\t', tp, '\t', fp, '\t', tp+fp)
+        print ('System', '\t', fn, '\t', tn, '\t', tn+fn)
+        print ('-'*30)
+        print ('Total', '\t', tp+fn, '\t', fp+tn)
+        print ('-'*30)
                 
         if (tp + fp != 0):
             Precision = tp / (tp + fp)

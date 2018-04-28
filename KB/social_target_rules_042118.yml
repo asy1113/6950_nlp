@@ -1,5 +1,11 @@
 Comments: ''
 Direction: ''
+Lex: autism
+Regex: autism
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
 Lex: afraid people will judge him 
 Regex: afraid (people|.{1,20})? will judge (me|her|him)
 Type: ISOLATION
@@ -25,13 +31,13 @@ Type: ISOLATION
 Comments: ''
 Direction: ''
 Lex: be abandoned
-Regex: (be|been|am|was|is|'s).{1,20} abandoned
+Regex: (be|been|am|was|is|\'s).{1,20} abandoned
 Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
 Lex: be homeless
-Regex: (be|been|am|was|is|'s) homeless
+Regex: (be|been|am|was|is|\'s) homeless
 Type: ISOLATION
 ---
 Comments: ''
@@ -43,25 +49,37 @@ Type: ISOLATION
 Comments: ''
 Direction: ''
 Lex: be kicked out of
-Regex: (be|been|am|was|is|'s) kicked out of
+Regex: (be|been|am|was|is|\'s) kicked out of
 Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
 Lex: be prevented from being with his 
-Regex: (be|been|am|was|is|'s) prevented from being with (my|her|his)
+Regex: (be|been|am|was|is|\'s) prevented from being with (my|her|his)
 Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
 Lex: be removed from
-Regex: (be|been|am|was|is|'s) removed from
+Regex: (be|been|am|was|is|\'s) removed from
 Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
 Lex: be withdrawing
 Regex: (be|been|am|is|was) withdrawing
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: being asked to leave others or groups
+Regex: being asked to leave (others|group)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: being restricted from contact with others
+Regex: being restricted from.{0,10}with 
 Type: ISOLATION
 ---
 Comments: ''
@@ -73,7 +91,13 @@ Type: ISOLATION
 Comments: ''
 Direction: ''
 Lex: cannot interact with woman
-Regex: (can not|cannot|can't) interact with (woman|women|man|men)
+Regex: (can not|cannot|can\'t) interact with (woman|women|man|men)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: can't talk with people
+Regex: (can\'t|cannot|can not) talk with people
 Type: ISOLATION
 ---
 Comments: ''
@@ -84,8 +108,26 @@ Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
+Lex: did not feel mom understood
+Regex: (.{1,4}n\'t|not) feel (mom|dad|parents|friend) understood
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: did not interact with anyone
+Regex: (.{1,4}n\'t|not) interact with anyone
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
 Lex: difficult time making friends
 Regex: difficult time making friends? 
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: difficult to understand
+Regex: difficult to understand
 Type: ISOLATION
 ---
 Comments: ''
@@ -102,20 +144,38 @@ Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
+Lex: disrespectful to her parents
+Regex: disrespectful to (his|her) parents
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: distance herself from
+Regex: distance (himself|herself) from
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: distancing self from relationships
+Regex: (distancingdistance) (himself|herself) from (relationships|home|family)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
 Lex: ditch school
-Regex: ("|')?ditch("|')? school
+Regex: (\"|\')?ditch(\"|\')? school
 Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
 Lex: don't have any relationship to anyone 
-Regex: (not|didn't|doesn't|don't) have any relationship to (any one|anyone)
+Regex: (not|didn\'t|doesn\'t|don\'t) have any relationship to (any one|anyone)
 Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
 Lex: don't let him see his friend
-Regex: (not|didn't|doesn't|don't) let (her|him|me) see (her|his|my) friends
+Regex: (not|didn\'t|doesn\'t|don\'t) let (her|him|me) see (her|his|my) friends
 Type: ISOLATION
 ---
 Comments: ''
@@ -151,7 +211,7 @@ Type: ISOLATION
 Comments: ''
 Direction: ''
 Lex: feel be rejected by
-Regex: (feel|feels|felt|be|been|am|is|was|'s) rejected by
+Regex: (feel|feels|felt|be|been|am|is|was|\'s) rejected by
 Type: ISOLATION
 ---
 Comments: ''
@@ -198,14 +258,50 @@ Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
+Lex: harm him
+Regex: harm (him|her|himself|herself)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: hated her
+Regex: hated (him|her)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: her family was mad at her
+Regex: (his|her) family was mad at (him|her)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: hours a day in his room
+Regex: hours a day in (his|her) room
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
 Lex: I she isolate herself 
 Regex: (I|she|he)? (isolate\w?) (myself|herself|himself)
 Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
+Lex: in his room for several days
+Regex: in (his|her) .{0,10}room for several days
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: intellectual disability
+Regex: intellectual disability
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
 Lex: isolate
-Regex: isolate\w?
+Regex: (isolate|isolates|isolated)
 Type: ISOLATION
 ---
 Comments: ''
@@ -217,7 +313,7 @@ Type: ISOLATION
 Comments: ''
 Direction: ''
 Lex: isolation
-Regex: isolation
+Regex: (isolation|isolative|isolating)
 Type: ISOLATION
 ---
 Comments: ''
@@ -228,26 +324,38 @@ Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
-Lex: isolative
-Regex: isolative
+Lex: kicked him out
+Regex: kicked (him|her) out
 Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
 Lex: kicked out by
-Regex: ("|')?kicked out.{1,20}?("|')? by
+Regex: (\"|\')?kicked out.{1,20}?(\"|\')? by
 Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
 Lex: kicked out of
-Regex: ("|')?kicked out("|')? of
+Regex: (\"|\')?kicked out(\"|\')? of
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: kicked the pt out of the home
+Regex: kicked .{0,10} out of the home
 Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
 Lex: lack of family support
 Regex: lack of family support
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: Lack of meaningful social group
+Regex: lack of .{0,20}social group
 Type: ISOLATION
 ---
 Comments: ''
@@ -270,6 +378,12 @@ Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
+Lex: leaving the house
+Regex: (leave|left|leaving) the house
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
 Lex: limited social support
 Regex: limited social support
 Type: ISOLATION
@@ -288,8 +402,8 @@ Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
-Lex: lonely 
-Regex: lonely feeling\w?
+Lex: Loneliness
+Regex: (loneliness|lonely|alone)
 Type: ISOLATION
 ---
 Comments: ''
@@ -324,6 +438,12 @@ Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
+Lex: no one would care
+Regex: no one would care
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
 Lex: not able to attend school
 Regex: not able to attend school
 Type: ISOLATION
@@ -342,20 +462,62 @@ Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
+Lex: not be allowed to receive calls
+Regex: (.{1,4}n\'t|not) be allowed to receive calls
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: not being understood
+Regex: (.{1,4}n\'t|not) being understood
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: not has someone to talk to
+Regex: (.{1,4}n\'t|not) has someone to talk to
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
 Lex: not have a place in this world
 Regex: not (have|has|had) a place in (this|the) world
 Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
-Lex: 'participation: none'
-Regex: participation:\s{1,5}none
+Lex: parents don't understand
+Regex: parents (.{1,4}n\'t|not) understand
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: participation none
+Regex: participationparticipation.?\s{1,5}none
 Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
 Lex: peer isolation
 Regex: peer.{1,20}? isolation
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: physiological barriers
+Regex: physiological barriers?
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: prefers to be alone
+Regex: (prefers|prefered) to be alone
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: prevents her from being able to connect with others
+Regex: prevents (him|her) from .{1,20} connect with
 Type: ISOLATION
 ---
 Comments: ''
@@ -384,6 +546,24 @@ Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
+Lex: rejected by peers
+Regex: (rejected|reject|rejects) by (peers|friends|group)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: restrict contact with the boyfriend
+Regex: restrict contact with (the)? (boyfriend|girlfriend|people)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: restrict her access to friends
+Regex: restrict (him|her) access to friends?
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
 Lex: run away
 Regex: (run\w?|ran|running) away
 Type: ISOLATION
@@ -392,6 +572,18 @@ Comments: ''
 Direction: ''
 Lex: run off
 Regex: (run\w?|ran|running) off
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: self protective mechanism
+Regex: self protective mechanism
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
+Lex: she was missing people
+Regex: (he|she) was missing people
 Type: ISOLATION
 ---
 Comments: ''
@@ -420,6 +612,12 @@ Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
+Lex: spends most of her time by herself
+Regex: spends most of (his|her) time by (himself|herself)
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
 Lex: struggle in that relationship
 Regex: (struggle\w?|struggling) in (that|this|the)? relationship
 Type: ISOLATION
@@ -444,6 +642,12 @@ Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
+Lex: taken away from her mother
+Regex: taken away from (his|her) mother
+Type: ISOLATION
+---
+Comments: ''
+Direction: ''
 Lex: timeout room
 Regex: timeout room
 Type: ISOLATION
@@ -463,19 +667,19 @@ Type: ISOLATION
 Comments: ''
 Direction: ''
 Lex: wish he was loved
-Regex: (wish|wish\w+2?) (I|she|he) was loved
+Regex: (wish|wishes|wished) (I|she|he) was loved
 Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
 Lex: wish she could care about him 
-Regex: (wish|wish\w+2?).{1,30}(could|can) care about (me|her|him)
+Regex: (wish|wishes|wished).{1,30}(could|can) care about (me|her|him)
 Type: ISOLATION
 ---
 Comments: ''
 Direction: ''
 Lex: wish she wasn't here
-Regex: (wish|wishes|wished) (I|she|he) (wasn't|was not) here
+Regex: (wish|wishes|wished) (I|she|he) (wasn\'t|was not) here
 Type: ISOLATION
 ---
 Comments: ''
@@ -483,4 +687,3 @@ Direction: ''
 Lex: without anyone to talk to
 Regex: without (any one|anyone)? to talk to
 Type: ISOLATION
----
